@@ -1,0 +1,24 @@
+.page-body{
+    height: 100dvh;
+    width: 100dvw;
+    background-color: rgba(89, 215, 85, 0.971);
+}
+.head{
+    width: 100%;
+    height: 10%;
+    background-color: rgba(78, 70, 124, 0.674);
+}
+.content{
+    display: flex;
+    justify-content: space-between;
+}
+.side-bar{
+    width: 10%;
+    height: 100dvh;
+    background-color: rgba(51, 12, 73, 0.529);
+}
+.footer{
+    width: 100%;
+    height: 10%;
+    background-color: rgb(172, 68, 68);
+}
